@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Conway", "Conway\Conway.esproj", "{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E695964B-F6AB-4BF5-8345-1BC2DCFD38AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {713B3391-BC01-4D87-A91B-3750D3AAA681}
+	EndGlobalSection
+EndGlobal
